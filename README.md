@@ -1,15 +1,11 @@
 # marginnote3-408-考研思维导图
-### 0.资源链接：[百度网盘链接](https://pan.baidu.com/s/1KPR1DuCWQTWmy8w1yEKmvg)提取码：827v
+### 0.资源链接：[百度网盘链接](https://pan.baidu.com/s/1s0koYkrsGZKA4FzDjFNq9g?pwd=np8s)
 ### 1.写在前面的话
-    21年科憨使用marginnote3无纸化备考的脑图文档，脑图质量很高，在闲鱼上陆续也卖了1k+元,
-    陆续也有人开始倒卖，与其让坏人用自己的心血收割考研er不如给大家开源，当然大家要是觉得好的话可以给我点亮一颗star！
+    21年科憨使用marginnote3无纸化备考的脑图文档，脑图质量很高
+    陆续有人开始倒卖，与其让坏人用自己的心血收割考研er不如给大家开源，当然大家要是觉得好的话可以给我点亮一颗star！
 ### 2.b站讲解视频
-  b站上传了脑图的使用方法：[脑图使用方法](https://www.bilibili.com/video/BV1Bf4y1t7LQ)（别忘了一键三连哦！)
+  b站上传了脑图的使用方法：[脑图使用方法](https://www.bilibili.com/video/BV1Bf4y1t7LQ)（一键三连！)
 
-
-### 3.淘宝和闲鱼店铺(要是想捐赠的话渠道如下，其他都是二手贩子)
-淘宝：[marginnote3思维导图](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.50111debDbCN1u&ft=t&id=649660638958)
-闲鱼：[我头上有犄角](https://market.m.taobao.com/app/idleFish-F2e/widle-taobao-rax/page-detail?wh_weex=true&wx_navbar_transparent=true&id=649592506268&ut_sk=1.Xr0WvBMxeYQDAERHj9hjZr3Z_12431167_1624896477488.Copy.detail.649592506268.3455301445&forceFlush=1)和marginnote3(被下架了所以有了前面那个新号)
 ````
 含【数据结构】、【操作系统】、【计算机组成原理】、【计算机网络】四科:
 每个科目都包含：
