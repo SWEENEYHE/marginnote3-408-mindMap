@@ -1,5 +1,5 @@
 # marginnote3-408-考研思维导图
-### 0.资源链接：[百度网盘链接](https://pan.baidu.com/s/1s0koYkrsGZKA4FzDjFNq9g?pwd=np8s)
+### 0.资源链接：[百度网盘链接](https://pan.baidu.com/s/1s0koYkrsGZKA4FzDjFNq9g?pwd=np8s) ,新增脑图文件：*.marginpkg
 ### 1.写在前面的话
     21年科憨使用marginnote3无纸化备考的脑图文档，脑图质量很高
     陆续有人开始倒卖，与其让坏人用自己的心血收割考研er不如给大家开源，当然大家要是觉得好的话可以给我点亮一颗star！
