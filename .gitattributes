@@ -1,1 +1,5 @@
 *.marginpkg filter=lfs diff=lfs merge=lfs -text
+【2021操作系统】.marginpkg filter=lfs diff=lfs merge=lfs -text
+【2021计算机网络】.marginpkg filter=lfs diff=lfs merge=lfs -text
+【2021计算机组成原理】.marginpkg filter=lfs diff=lfs merge=lfs -text
+【2021计算机数据结构】.marginpkg filter=lfs diff=lfs merge=lfs -text
